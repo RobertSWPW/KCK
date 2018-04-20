@@ -1,4 +1,4 @@
-GitHub wykorzystuje język znaczników Markdown, stąd rozszerzenie tego pliku to .md. Jest to język umożliwiający prostą edycję tekstów w trybie tekstowym, z zaznaczaniem formatowania przy pomocy znaczników. Ostateczny wygląd jest widoczny dopiero na podglądzie. Dzięki temu osoba redagująca tekst nie rozprasza się podczas pracy i skupia na treści.
+GitHub wykorzystuje język znaczników Markdown, stąd rozszerzenie tego pliku to .md. Jest to język umożliwiający prostą edycję tekstów w trybie tekstowym, z zaznaczaniem formatowania przy pomocy znaczników. Ostateczny wygląd jest widoczny dopiero na podglądzie. Dzięki temu osoba redagująca tekst nie rozprasza się podczas pracy i skupia na treści. Poniżej przedstawiono podstawowe znaczniku języka Markdown, czyli #, *, >, \`, -.
 
 Podstawowe znaczniki umożliwiające formatowanie:
 
